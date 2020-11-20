@@ -7,7 +7,7 @@ caption: 'Η πρώτη οθόνη αφής σε υπολογιστή εφευρ
 license_url: 'https://arstechnica.com/gadgets/2013/04/from-touch-displays-to-the-surface-a-brief-history-of-touchscreen-technology'
 license_text: Florence Ion
 categories:
-  - Εργαλεία
+  - Αρχέτυπα
 tags:
   - Plato iv 
 ---
