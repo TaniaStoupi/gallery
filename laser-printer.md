@@ -7,7 +7,7 @@ caption: 'Το 1938 ο Αμερικανός φυσικός και εφευρέτ
 license_url: 'https://history-computer.com/ModernComputer/Basis/laser_printer.html'
 license_text: history-computer
 categories:
-  - Αρχέτυπα
+  - Συστήματα
 tags:
   - Laser-printer 
 ---
